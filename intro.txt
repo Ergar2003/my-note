@@ -1,0 +1,21 @@
+// My wish at future.
+
+  > GitHub Knowledge
+    * Learn GitHub
+    * Learn Git
+    * Discover how to input local file/folder into site with Git + GitHub
+    
+  > Front-End Development
+    * Learn HTML, CSS, and JavaScript                                                                           // Fullfiled
+    * Make a "Web Design" program using HTML and CSS                                                            // Fulfilled    
+    * Do experiment with JavaScript DOM to animate my HTML program                                              // Fulfilled
+    
+  > Master of Framework(s)
+    * Learn React.js                                                                                            // My wish
+    * Learn Ruby On Rails/Rails5                                                                                
+    * Learn PHP/Hypertext Processor                                                                             // My wish
+    
+   > Developer Fantasy
+    * Combine all the knowledge of my programming skill then applicate those for make a game                    // My Dream    
+    * Create, edit, and host a responsive "Web Design" site for other people.
+    
